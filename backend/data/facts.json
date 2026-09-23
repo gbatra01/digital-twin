@@ -1,0 +1,21 @@
+{
+    "full_name": "Gaurav Batra",
+    "name": "Gore",
+    "current_role": "Lead Director AI",
+    "location": "Amazon Office",
+    "email": "gbatra@amazon.com",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "specialties": [
+      "AI Engineer",
+      "AI Leader",
+      "AI Director"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Master in AI",
+        "institution": "AI University",
+        "year": "2020"
+      }
+    ]
+  }
